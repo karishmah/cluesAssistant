@@ -3,7 +3,7 @@
 % ECS140B Project 1    
 % Clues Project
 
-% We only implement the basic requirement for clues.
+% We implemented the basic requirement for clues.
 
 %After loading the program, type "clues." to begin the game. 
 %You will then be asked to input the configuration of the game. 
