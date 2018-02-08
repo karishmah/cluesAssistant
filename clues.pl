@@ -1,6 +1,3 @@
-% Huiling Wu 999190335
-% Mohammed Ali 912678203
-% ECS140B Project 1    
 % Clues Project
 
 % We implemented the basic requirement for clues.
